@@ -51,12 +51,12 @@ Par exemple, en utilisant l'injection SQL, il est possible de décharger toutes 
 
       Étape 10. Examen des résultats, élimination des triages et des faux positifs
 
-Les scanners de vulnérabilité automatisés du site Web produisent souvent de faux positifs. L'ingénieur Lean Security inspectera et validera manuellement les problèmes de sécurité pour supprimer ces faux positifs. L'ingénieur de Lean Security effectuera également un triage des constatations de sécurité afin de déterminer le risque, l'impact et le risque de sécurité du problème de sécurité identifié. Cette étape nous aide également à modifier le système afin de minimiser l'apparition de faux positifs dans les analyses futures.
+Les scanners de vulnérabilité automatisés du site Web produisent souvent de faux positifs. L'ingénieur inspectera et validera manuellement les problèmes de sécurité pour supprimer ces faux positifs. L'ingénieur effectuera également un triage des constatations de sécurité afin de déterminer le risque, l'impact et le risque de sécurité du problème de sécurité identifié. Cette étape nous aide également à modifier le système afin de minimiser l'apparition de faux positifs dans les analyses futures.
 
       Étape 11. Évaluation des risques commerciaux.
 
-Sur la base des résultats de l'analyse automatisée de la sécurité et des tests de pénétration manuelle, le consultant en sécurité déterminera les risques commerciaux des vulnérabilités. Plusieurs facteurs sont pris en compte: le type de données auxquelles le testeur pourrait avoir accès, la facilité d'exploitation et la probabilité que quelqu'un trouve le problème. Lean Security utilise la méthodologie globale d'évaluation des risques basée sur les meilleures pratiques de l'industrie pour déterminer le risque commercial.
+Sur la base des résultats de l'analyse automatisée de la sécurité et des tests de pénétration manuelle, le consultant en sécurité déterminera les risques commerciaux des vulnérabilités. Plusieurs facteurs sont pris en compte: le type de données auxquelles le testeur pourrait avoir accès, la facilité d'exploitation et la probabilité que quelqu'un trouve le problème. Utiliser la méthodologie globale d'évaluation des risques basée sur les meilleures pratiques de l'industrie pour déterminer le risque commercial.
 
       Étape 12. Publication des résultats.
  
-Lorsque le test de pénétration de l'application Web est terminé, les résultats sont publiés sur le tableau de bord basé sur le Cloud sécurisé des clients de Lean Security. Les clients peuvent se connecter en ligne et examiner les résultats de leur évaluation de sécurité. Le tableau de bord permet aux clients d'exporter les résultats au format CSV, PDF ou HTML pour la distribution hors ligne. 
+Lorsque le test de pénétration de l'application Web est terminé, les résultats sont publiés sur le tableau de bord basé sur le Cloud sécurisé des clients . Les clients peuvent se connecter en ligne et examiner les résultats de leur évaluation de sécurité. Le tableau de bord permet aux clients d'exporter les résultats au format CSV, PDF ou HTML pour la distribution hors ligne. 
