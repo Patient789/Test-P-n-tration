@@ -1,6 +1,7 @@
 Méthodologie de test de pénétration d'application Web
 
-Lean Security effectue un test complet de pénétration d'applications Web pour réduire le risque de compromis et améliorer la conformité. La méthodologie est alignée sur les meilleures pratiques de NIST et OWASP. Le test de pénétration est effectué par les consultants supérieurs en sécurité avec les certifications CISSP, CISA, CISM, GCIH, GPEN, GWAPT, GXPN.
+Pour effectue un test complet de pénétration d'applications Web pour réduire le risque de compromis et améliorer la conformité. 
+La méthodologie est alignée sur les meilleures pratiques de NIST et OWASP. Le test de pénétration est effectué par les consultants supérieurs en sécurité avec les certifications CISSP, CISA, CISM, GCIH, GPEN, GWAPT, GXPN.
 
 Principales caractéristiques et avantages:
 
@@ -11,11 +12,9 @@ Principales caractéristiques et avantages:
 Le test est exécuté selon la méthodologie suivante:
 
 
-
-
       Étape 1. Recherche ciblée.
 
-L'ingénieur Lean Security recevra les informations sur la cible que vous souhaitez évaluer. Les informations comprennent l'URL de l'application Web, les critiques, etc. L'ingénieur se connecte ensuite à la cible pour confirmer que le site Web peut être atteint et scanné. L'ingénieur fera également un exemple de vérification des pages et du sous-dossier pour s'assurer que le site Web cible fonctionne correctement. Au cours de cette étape, l'ingénieur déterminera également la technologie de backend utilisée pour l'application Web (Wordpress CMS, Drupal, Joomla, CMS commercial, etc.).
+L'ingénieur  recevra les informations sur la cible que vous souhaitez évaluer. Les informations comprennent l'URL de l'application Web, les critiques, etc. L'ingénieur se connecte ensuite à la cible pour confirmer que le site Web peut être atteint et scanné. L'ingénieur fera également un exemple de vérification des pages et du sous-dossier pour s'assurer que le site Web cible fonctionne correctement. Au cours de cette étape, l'ingénieur déterminera également la technologie de backend utilisée pour l'application Web (Wordpress CMS, Drupal, Joomla, CMS commercial, etc.).
 
       Étape 2. Processus métier et gestion logique des applications
 
@@ -23,11 +22,11 @@ L'ingénieur de sécurité explore manuellement l'application et mappe les fonct
 
       Étape 3. Configuration du scanner d'application Web et modification.
 
-Lean Security utilise plusieurs scanners de sécurité des applications Web pour évaluer la sécurité de l'application Web. La liste des scanners comprend à la fois des outils de sécurité commerciaux et gratuits utilisés par les professionnels de la sécurité et les pirates. Cette étape est essentielle pour s'assurer que le scanner couvre toute l'application et que chaque page est évaluée pour des problèmes de sécurité. L'ingénieur modifiera également le scanner en fonction de la technologie et du cadre du site (ASP.NET, PHP, AJAX, etc.). La configuration du scanner Web est un processus à forte intensité de main-d'œuvre et nos ingénieurs ont utilisé leur vaste expérience et leur connaissance des problèmes d'application Web afin d'optimiser les performances de l'analyse.
+Pour  utiliser plusieurs scanners de sécurité des applications Web pour évaluer la sécurité de l'application Web. La liste des scanners comprend à la fois des outils de sécurité commerciaux et gratuits utilisés par les professionnels de la sécurité et les pirates. Cette étape est essentielle pour s'assurer que le scanner couvre toute l'application et que chaque page est évaluée pour des problèmes de sécurité. L'ingénieur modifiera également le scanner en fonction de la technologie et du cadre du site (ASP.NET, PHP, AJAX, etc.). La configuration du scanner Web est un processus à forte intensité de main-d'œuvre et nos ingénieurs ont utilisé leur vaste expérience et leur connaissance des problèmes d'application Web afin d'optimiser les performances de l'analyse.
 
       Étape 4. Rechargement automatisé du site Web.
 
-L'ingénieur de Lean Security instruira ensuite le scanner d'application Web pour explorer le site Web et déterminer quelles pages sont disponibles pour un utilisateur non authentifié. Le scanner d'application Web visitera chaque page du site et déterminera l'arbre du site.
+L'ingénieur  instruira ensuite le scanner d'application Web pour explorer le site Web et déterminer quelles pages sont disponibles pour un utilisateur non authentifié. Le scanner d'application Web visitera chaque page du site et déterminera l'arbre du site.
 
       Étape 5. Mise en page du site Web.
 
@@ -39,7 +38,7 @@ L'ingénieur de sécurité passera en revue l'arborescence du site qui a été c
  
       Étape 7. Analyse automatisée de la vulnérabilité Web authentifiée.
      
-Le testeur Lean Security effectuera alors le test de sécurité automatisé sur les parties de l'application Web cible qui nécessite la connexion. Les exemples incluent les zones d'adhésion, les zones de réservation en ligne, les formulaires de collecte de données, les sites Web de promotion, etc. L'analyse est contrôlée pour s'assurer que L'impact minimal est effectué sur le système de production ou sur l'infrastructure du serveur.
+Le testeur effectuera alors le test de sécurité automatisé sur les parties de l'application Web cible qui nécessite la connexion. Les exemples incluent les zones d'adhésion, les zones de réservation en ligne, les formulaires de collecte de données, les sites Web de promotion, etc. L'analyse est contrôlée pour s'assurer que L'impact minimal est effectué sur le système de production ou sur l'infrastructure du serveur.
 
       Étape 8. Test de vulnérabilité Web manuel.
 
@@ -47,7 +46,8 @@ Cette étape comprend les actions et les tests pour identifier les vulnérabilit
 
       Étape 9. Exploitation de vulnérabilité Web.
      
-Le testeur de sécurité tentera alors d'exploiter les problèmes de sécurité identifiés pour déterminer le risque commercial de la découverte. Les consultants Lean Security utilisent des exploits écrits, commerciaux et personnalisés pour extraire les données d'une application. Par exemple, en utilisant l'injection SQL, il est possible de décharger toutes les informations de la base de données SQL backend ou même de prendre le contrôle d'un serveur Web entier. Si le testeur trouve la fonctionnalité de téléchargement du fichier non protégé, il est possible de télécharger le shell Web pour exécuter les commandes du système. L'exploitation se fait manuellement dans un environnement contrôlé pour assurer la sécurité des données extraites. Le testeur demandera également une autorisation explicite avant d'exploiter la vulnérabilité.
+Le testeur de sécurité tentera alors d'exploiter les problèmes de sécurité identifiés pour déterminer le risque commercial de la découverte. Les consultants utilisent des exploits écrits, commerciaux et personnalisés pour extraire les données d'une application. 
+Par exemple, en utilisant l'injection SQL, il est possible de décharger toutes les informations de la base de données SQL backend ou même de prendre le contrôle d'un serveur Web entier. Si le testeur trouve la fonctionnalité de téléchargement du fichier non protégé, il est possible de télécharger le shell Web pour exécuter les commandes du système. L'exploitation se fait manuellement dans un environnement contrôlé pour assurer la sécurité des données extraites. Le testeur demandera également une autorisation explicite avant d'exploiter la vulnérabilité.
 
       Étape 10. Examen des résultats, élimination des triages et des faux positifs
 
@@ -60,6 +60,3 @@ Sur la base des résultats de l'analyse automatisée de la sécurité et des tes
       Étape 12. Publication des résultats.
  
 Lorsque le test de pénétration de l'application Web est terminé, les résultats sont publiés sur le tableau de bord basé sur le Cloud sécurisé des clients de Lean Security. Les clients peuvent se connecter en ligne et examiner les résultats de leur évaluation de sécurité. Le tableau de bord permet aux clients d'exporter les résultats au format CSV, PDF ou HTML pour la distribution hors ligne. 
-
-
-
